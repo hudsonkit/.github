@@ -14,4 +14,8 @@
 - **[Atelier](https://github.com/arach/atelier)** · A creative toolkit and workspace. Private repository.
 - **[Hudson](https://github.com/arach/hudson)** · Shared workspace infrastructure for apps, with a React SDK and native Swift package. Private repository.
 
+### Resources
+
+- **[Awesome Architecture Diagrams](https://github.com/hudsonkit/awesome-architecture-diagrams)** · A curated list of diagram tools, models, renderers, and libraries. [Browse the searchable directory](https://hudsonkit.github.io/awesome-architecture-diagrams/).
+
 Built by [Arach](https://github.com/arach).
